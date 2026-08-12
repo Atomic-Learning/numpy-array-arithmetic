@@ -8,7 +8,8 @@
     "prerequisites": [
         "numpy-arrays",
         "numpy-importing-numpy",
-        "python-arithmetic-operators"
+        "python-arithmetic-operators",
+        "programming-elementwise-operationss"
     ],
     "related": [
         "numpy-array-comparison",

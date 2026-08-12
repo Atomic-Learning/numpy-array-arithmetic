@@ -1,4 +1,4 @@
-When an arithmetic operator is placed between two NumPy arrays, the operation is performed **elementwise**: each element of the first array is combined with the corresponding element of the second array to produce the result. For example:
+When an arithmetic operator is placed between two NumPy arrays, the operation is performed **elementwise**. For example:
 
 ```py-cell
 import numpy as np
