@@ -16,7 +16,9 @@ print("Modulo:           ", a % b)
 print("Negation:         ", -a)
 ```
 
-The result has the same shape as the input arrays. Both arrays must have the same shape for element-wise operations to work, or an exception will be raised:
+The result has the same shape as the input arrays.
+
+Both arrays must have the same shape for elementwise operations to work, or an exception will be raised:
 
 ```py-cell
 a = np.array([2, 4, 6])
