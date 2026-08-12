@@ -1,22 +1,21 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
-    "authors": [
-        "",
-        ""
-    ],
-    "tags": [
-        "",
-        ""
-    ],
-    "duration": 0,
+    "title": "NumPy: Element-wise Arithmetic",
+    "slug": "numpy-array-arithmetic",
+    "description": "Shows how arithmetic operators (+, -, *, /, **, //, %, unary -) apply element-wise when used between two NumPy arrays of the same shape.",
+    "authors": ["chris-cooling", "giorgia-del-missier"],
+    "tags": ["python", "numpy"],
+    "duration": 2,
     "prerequisites": [
-        "",
-        ""
+        "numpy-arrays",
+        "numpy-importing-numpy",
+        "python-arithmetic-operators"
     ],
     "related": [
-        "",
-        ""
+        "numpy-array-comparison",
+        "numpy-broadcasting-scalar"
+    ],
+    "python_packages": 
+    [
+        "numpy"
     ]
 }
