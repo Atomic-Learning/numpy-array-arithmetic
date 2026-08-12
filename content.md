@@ -18,6 +18,8 @@ print("Negation:         ", -a)
 
 The result has the same shape as the input arrays.
 
+# Corresponding Shape
+
 Both arrays must have the same shape for elementwise operations to work, or an exception will be raised:
 
 ```py-cell
