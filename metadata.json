@@ -1,5 +1,5 @@
 {
-    "title": "NumPy: Element-wise Arithmetic",
+    "title": "NumPy: Array Arithmetic",
     "slug": "numpy-array-arithmetic",
     "description": "Shows how arithmetic operators (+, -, *, /, **, //, %, unary -) apply element-wise when used between two NumPy arrays of the same shape.",
     "authors": ["chris-cooling", "giorgia-del-missier"],
