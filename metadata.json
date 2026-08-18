@@ -13,7 +13,7 @@
     ],
     "related": [
         "numpy-array-comparison",
-        "numpy-broadcasting-scalar",
+        "numpy-array-scalar-operations",
         "exercise-numpy-array-operations-prediction"
     ],
     "python_packages": 
